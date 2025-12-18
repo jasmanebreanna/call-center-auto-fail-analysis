@@ -32,7 +32,11 @@ QA teams were only able to grade one call per representative per month, limiting
 - Two teams contributed **75%** of total auto-fails, indicating risk concentration
 - Targeted compliance coaching would likely be more effective than organization-wide retraining
 
----
+## Dashboard Preview
+
+### Auto-Fail Risk Dashboard
+![Dashboard](screenshots/Auto_Fail_Dashboard.png)
+
 
 ## Repository Contents
 - `/data/` — Raw and cleaned datasets
